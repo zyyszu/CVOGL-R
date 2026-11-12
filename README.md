@@ -22,13 +22,12 @@ The RBox annotations used by our dataset loader are represented as four corner p
 If you find CVOGL-R useful in your research, please cite our paper:
 
 ```bibtex
-@InProceedings{Fu_2026_CVPR,
-  author    = {Fu, Chenlin and Gong, Ao and Ling, Xingtao and Zhu, Yingying},
-  title     = {From Horizontal to Rotated: Cross-View Object Geo-Localization with Orientation Awareness},
-  booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Findings},
-  month     = {June},
-  year      = {2026},
-  pages     = {7101--7110}
+@inproceedings{fu2026horizontal,
+  title={From Horizontal to Rotated: Cross-View Object Geo-Localization with Orientation Awareness},
+  author={Fu, Chenlin and Gong, Ao and Ling, Xingtao and Zhu, Yingying},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={7101--7110},
+  year={2026}
 }
 ```
 
